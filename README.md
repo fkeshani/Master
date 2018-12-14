@@ -15,6 +15,6 @@ Chromedriver MAC OS run this : brew cask install chromedriver
 
 ### Execution:
 ```
-For Log In Page : cucumber features/login_page.feature
+For Login Page : cucumber features/login_page.feature
 For Search Page : cucumber features/search_page.feature
 ```
