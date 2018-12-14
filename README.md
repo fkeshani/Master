@@ -9,6 +9,8 @@ This is Automation Project
 git clone 
 cd Master-master
 bundle install 
+
+Chromedriver MAC OS run this : brew cask install chromedriver
 ```
 
 ### Execution:
