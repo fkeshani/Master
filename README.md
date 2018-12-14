@@ -7,7 +7,7 @@ This is Automation Project
 ### Installation:
 ```
 git clone 
-cd myapp
+cd Master-master
 bundle install 
 ```
 
