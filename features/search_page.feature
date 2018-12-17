@@ -9,4 +9,4 @@ Feature: Search Property
       And On the More Filter i check mark on Status as Open House
       And On the More Filter i change Sold Radio Button to ON
       And On the More Filter i click on Apply Filters button
-      And On the Search page I Verified filter summery
+      Then On the Search page I Verified filter summery
