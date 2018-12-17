@@ -19,13 +19,6 @@ A recent version of Ruby ( Cucumber, and Capybara )
 ```
 
 ### Installation:
-Capybara supports Selenium 3.5+ (Webdriver). In order to use Selenium, you'll need to install the `selenium-webdriver` gem, and add it to your `Gemfile` if you're using bundler.
-Capybara requires Ruby 2.3.0 or later. To install, add this line to your
-`Gemfile` and run `bundle install`:
-
-```ruby
-gem 'capybara'
-```
 ```
 git clone 
 cd Master-master
