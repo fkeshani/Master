@@ -23,8 +23,8 @@ brew cask install chromedriver
 
 ### Execution and Running the tests:
 ```
-For Login Page  Test  run  this  command  on  path  project  Directory  : cucumber features/login_page.feature
-For Search Page Test run this command on path project Directory : cucumber features/search_page.feature
+For Login Page Test, Run this command on path project Directory: cucumber features/login_page.feature
+For Search Page Test, run this command on path project Directory: cucumber features/search_page.feature
 ```
 
 ### Authors
