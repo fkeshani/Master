@@ -1,14 +1,22 @@
 ### Automate RedFin Web Site:
+```
 * This Automation Project Represent Login & Search Property at RedFin website .
+```
 
 ### Getting Started:
-* These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+```
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+```
 
 ### Prerequisites:
-* For Login Testing , you need to have valid username and password in order to Login to RedFin website
+```
+For Login Testing , you need to have valid username and password in order to Login to RedFin website
+```
 
 ### Dependencies:
+```
 * A recent version of Ruby ( Cucumber, and Capybara )
+```
 
 ### Installation:
 ```
