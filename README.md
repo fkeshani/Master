@@ -13,9 +13,9 @@ These instructions will get you a copy of the project up and running on your loc
 For Login Testing , you need to have valid username and password in order to Login to RedFin website
 ```
 
-### Dependencies:
+### Dependencies & Requirements:
 ```
-A recent version of Ruby ( Cucumber, and Capybara )
+Having Install A recent version of Ruby , Cucumber, and Capybara 
 ```
 
 ### Installation:
