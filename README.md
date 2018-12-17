@@ -1,5 +1,5 @@
 # Master
-This is Automation Project
+This is Automation Project ( RedFin Web site )
 
 ### Dependencies:
 * A recent version of Ruby 
