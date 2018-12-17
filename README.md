@@ -2,7 +2,7 @@
 This is Automation Project ( RedFin Web site )
 
 ### Dependencies:
-* A recent version of Ruby 
+* A recent version of Ruby ( Cucumber, and Capybara )
 
 ### Installation:
 ```
