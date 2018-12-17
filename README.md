@@ -2,7 +2,7 @@
 This is Automation Project
 
 ### Dependencies:
-* A recent version of Ruby with Bundler installed (`gem install bundler`).
+* A recent version of Ruby 
 
 ### Installation:
 ```
