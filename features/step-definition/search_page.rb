@@ -25,7 +25,7 @@ Given(/^I have navigated to the Redfine Home page$/) do
     page.find(:xpath,"//*[text()='Open Houses']").click
   end
 
-  Given(/^On the More Filter i change Sold Radio Button to ON$/) do
+  Given(/^On the More Filter i change Sold Radio Button to ON with Last 3 motnths$/) do
     page.find(:xpath,"//*[text()='Sold']").click
   end
 
