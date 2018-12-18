@@ -1,6 +1,6 @@
 ### Automate RedFin Web Site:
 ```
-This Automation Project Represent Login & Search Property at RedFin website 
+This Automation Test Project Represent Login & Search Property at RedFin website 
 Using Ruby, Cucumber, and Capybara.
 ```
 
