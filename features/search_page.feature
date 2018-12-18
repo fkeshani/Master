@@ -7,6 +7,6 @@ Feature: Search Property
       And On the Search page I click the More Filter
       And On the More Filter i click on Property Type House button with checked this weekends radio button
       And On the More Filter i check mark on Status as Open House
-      And On the More Filter i change Sold Radio Button to ON with Last 3 motnths
+      And On the More Filter i change Sold slide toggle to ON and Last 3 motnths selected default
       And On the More Filter i click on Apply Filters button
       Then On the Search page I Verified filter summery
