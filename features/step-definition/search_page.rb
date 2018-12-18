@@ -21,7 +21,7 @@ Given(/^I have navigated to the Redfine Home page$/) do
     find_button('House').click    
   end
   
-  And(/^On the More Filter i check mark on Status as Open House$/) do
+  And(/^On the More Filter i check mark on Status as Open House with checked this weekends radio button$/) do
     page.find(:xpath,"//*[text()='Open Houses']").click
   end
 
