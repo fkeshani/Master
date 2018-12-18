@@ -1,11 +1,13 @@
 ### Automate RedFin Web Site:
 ```
-This Automation Project Represent Login & Search Property at RedFin website using Ruby, Cucumber, and Capybara.
+This Automation Project Represent Login & Search Property at RedFin website 
+Using Ruby, Cucumber, and Capybara.
 ```
 
 ### Getting Started:
 ```
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+These instructions will get you a copy of the project up and running 
+on your local machine for development and testing purposes.
 ```
 
 ### Prerequisites:
@@ -16,6 +18,8 @@ For Login Testing , you need to have valid username and password in order to Log
 ### Dependencies & Requirements:
 ```
 Having Install A recent version of Ruby , Cucumber, and Capybara 
+We use Chromedriver
+
 ```
 
 ### Installation:
@@ -24,8 +28,8 @@ git clone
 cd Master-master
 bundle install 
 
-We use Chromedriver , MAC OS User Run this Command : 
-brew cask install chromedriver
+MAC OS USER RUN THIS COMMAND : brew cask install chromedriver
+
 
 ```
 
